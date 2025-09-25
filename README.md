@@ -1,6 +1,6 @@
-🚀 Project Title & Tagline
+🚀 Ticket Management System 
 ==========================
-### Ticket Management System 🎟️
+ Ticket Management System 🎟️
 > "Streamlining ticket purchases, one click at a time" 🚂
 
 📖 Description
