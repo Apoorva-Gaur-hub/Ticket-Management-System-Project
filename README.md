@@ -32,7 +32,6 @@ Here are some of the key features of the Ticket Management System:
 | Category | Technology |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript |
-| Backend | None (static website) |
 | Tools | Bootstrap, CSS Framework |
 
 📁 Project Structure
@@ -71,17 +70,6 @@ To test the application, follow these steps:
 2. **Test the interface**: Test the user interface by selecting different events, seats, and completing the payment process.
 3. **Test the validation**: Test the validation mechanism by entering invalid input and verifying that the system responds correctly.
 4. **Test the payment processing**: Test the payment processing by completing a purchase and verifying that the system responds correctly.
-
-📸 Screenshots
---------------
-
-Here are some screenshots of the application:
-
-* **Homepage**: [Insert screenshot of homepage]
-* **Event selection**: [Insert screenshot of event selection page]
-* **Seat selection**: [Insert screenshot of seat selection page]
-* **Payment processing**: [Insert screenshot of payment processing page]
-
 
 
 👤 Author
